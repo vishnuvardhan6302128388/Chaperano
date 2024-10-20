@@ -1,0 +1,19 @@
+.active{
+    background: white;
+    color: black;
+    height:30px;
+    margin-left: 10px;
+    width:30px;
+}
+.plant-product-container3{
+    width:90vw;
+}
+.pagination-container{
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+}
+.nav-cont{
+    display: flex;
+    width: 80vw;
+}
